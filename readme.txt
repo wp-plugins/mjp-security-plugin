@@ -1,6 +1,6 @@
 === MJP Security Plugin ===
 Contributors: zackdesign, ElbertF
-http://wordpress.zackdesign.biz/category/plugins/mjp-security-plugin/
+http://wp.zackdesign.biz/category/plugins/mjp-security-plugin/
 Donate link: http://www.zackdesign.biz/
 Tags: security, xss, login, username, permissions, post, form, prefix, table, database, password, ssl
 Requires at least: 2.8

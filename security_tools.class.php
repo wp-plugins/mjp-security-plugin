@@ -159,7 +159,7 @@ class securityTools
 
 	function head()
 	{
-		echo '<link type="text/css" rel="stylesheet" href="' . get_bloginfo('wpurl') . '/wp-content/plugins/mjp-security-plugin/css/smoothness/jquery-ui-1.7.2.custom.css"/>' . "\n";
+		echo '<link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/themes/base/jquery-ui.css"/>' . "\n";
 	}
 
 	private function process_form()
