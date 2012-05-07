@@ -4,7 +4,7 @@ Plugin Name: MJP Security Tools
 Plugin URI: http://wp.zackdesign.biz/
 Description: Make your WordPress installation more secure.
 Author: ElbertF, zackdesign, MJP
-Version: 1.0.0
+Version: 1.1
 Author URI: http://zackdesign.biz
 */
 
