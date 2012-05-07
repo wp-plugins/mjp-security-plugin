@@ -4,8 +4,8 @@ http://wp.zackdesign.biz/category/plugins/mjp-security-plugin/
 Donate link: http://www.zackdesign.biz/
 Tags: security, xss, login, username, permissions, post, form, prefix, table, database, password, ssl
 Requires at least: 2.8
-Tested up to: 2.9.2
-Stable tag: 1.0
+Tested up to: 3.3.2
+Stable tag: 1.1
 
 MJP Security Tools is a plugin designed to fix a lot of Wordpress security issues, as well as providing extra support.
 
@@ -58,6 +58,12 @@ can do the same for you. Check out www.zackdesign.biz
 Please make sure you are not running Wordpress < 3.0
 
 == Changelog ==
+
+= 1.1 =
+
+- Tested in WP 3.3.2 
+- Link update
+- Removed the old stylesheet and used the google one for jquery ui
 
 = 1.0 =
 
